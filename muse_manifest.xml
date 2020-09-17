@@ -1,0 +1,32 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IIT.github.io" resolutions="1x" timestamp="1600365725919">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4184178489" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="img_3953.jpg" crc="388096735" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16personalaties test.jpg" crc="4009268600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="learning styles quiz.jpg" crc="4047259632" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mumford and honey.jpg" crc="3858157373" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="job screenshot.jpg" crc="103991977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4085048498" seo="true" mt="1600365590187" redirect="true"/>
+</manifest>
